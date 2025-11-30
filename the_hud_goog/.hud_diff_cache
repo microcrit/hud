@@ -1,0 +1,37 @@
+{
+  "resource\\chatscheme.res": {
+    "hash": "9b0f8e9b8f02f243e87095598ca97f42334a6a657dcc1022af1a4f1591ac1cb2",
+    "size": 13467,
+    "timestamp": 1764474989382
+  },
+  "resource\\clientscheme.res": {
+    "hash": "f4f3daebd6e31e84e4f16f705eaf7b30cb02981d6bbfd4d032a965a5d096b4df",
+    "size": 104101,
+    "timestamp": 1764474989382
+  },
+  "resource\\pdacontrolpanelscheme.res": {
+    "hash": "0ff9744132e18cf01ca5c2b68bdb974148c9ce1db7006a6e6a8ffe24ed6a5c12",
+    "size": 9570,
+    "timestamp": 1764474989382
+  },
+  "resource\\sourcescheme.res": {
+    "hash": "2b459ff1e9a5a2eb30b6c22753ff4d48a7c834ce95ea66c59e0f13dc2ac8be98",
+    "size": 6956,
+    "timestamp": 1764474989383
+  },
+  "scripts\\hudanimations_manifest.txt": {
+    "hash": "927b61008081eafac302db71d32d75c63b4c9ed1b23c4bd5b8725826733c1acc",
+    "size": 109,
+    "timestamp": 1764474989383
+  },
+  "scripts\\hudanimations_tf.txt": {
+    "hash": "cffca69ab872c358d8afb566e78acde022062e87b4fdcfa1779e77dd28ad52ff",
+    "size": 63396,
+    "timestamp": 1764474989383
+  },
+  "scripts\\hudlayout.res": {
+    "hash": "94f39d5c2b264faffa01bff673667309c93f9c44d02c95f24f7d6b07ab6a592d",
+    "size": 23538,
+    "timestamp": 1764474989389
+  }
+}
